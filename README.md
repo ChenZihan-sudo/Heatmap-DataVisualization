@@ -1,5 +1,5 @@
 # Heatmap-DataVisualization
-简易实现热力地图数据可视化     
+通过地图图片简易实现热力地图数据可视化    
 
 ![image](https://user-images.githubusercontent.com/64928288/166636707-f0cc90bd-64fa-4390-9bca-fd835d480e94.png)   
 ## 使用方法
@@ -19,4 +19,9 @@ console.log("经纬度范围比例数据: ", ratioLonPixelLeft, ratioLonPixelRig
 ```
 2.绑定对应经纬度数据的上左下右边界 至 geoData 对象   
 在地图中选定经纬度信息   
-3.替换对象 dotData 数据源   
+3.替换对象 dotData 数据源      
+## 约束
+当前仅支持点数据可视化 地图图片为墨卡托投影   
+## 精度
+若图片边界数据和经纬度边界数据正确   
+可达到无误差
