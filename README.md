@@ -1,5 +1,5 @@
 # Heatmap-DataVisualization
-通过地图图片简易实现热力地图数据可视化    
+通过地图图片切片简易实现热力地图数据可视化    
 
 ![image](https://user-images.githubusercontent.com/64928288/166636707-f0cc90bd-64fa-4390-9bca-fd835d480e94.png)   
 ## 使用方法
