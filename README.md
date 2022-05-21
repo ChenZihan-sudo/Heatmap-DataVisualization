@@ -24,4 +24,4 @@ console.log("经纬度范围比例数据: ", ratioLonPixelLeft, ratioLonPixelRig
 当前仅支持点数据可视化 地图图片为墨卡托投影   
 ## 精度
 若图片边界数据和经纬度边界数据正确   
-可达到无误差
+可达到基本无误差
